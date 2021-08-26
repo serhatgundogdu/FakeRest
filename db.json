@@ -1,0 +1,51 @@
+{
+	"processors": [
+		{
+			"id": "0",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "1",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "2",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "3",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "4",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "53",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "13",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		},
+		{
+			"id": "23",
+			"title": "Intel Core i9 10980XE Socket 2066 3.0GHz 24.75MB Önbellek 14nm İşlemci",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/TeoriV2-107937_small.jpg"
+		}
+	],
+	"motherboards": [
+		{
+			"id": "1",
+			"title": "",
+			"image": ""
+		}
+	]
+}
