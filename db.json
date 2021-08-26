@@ -43,9 +43,29 @@
 	],
 	"motherboards": [
 		{
+			"id": "0",
+			"title": "MSI MEG Z590 GODLIKE Intel Z590 Soket 1200 DDR4 5600MHz (OC) M.2 Anakart",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/127739_small.jpg"
+		},
+		{
 			"id": "1",
-			"title": "",
-			"image": ""
+			"title": "ASUS ROG MAXIMUS XIII EXTREME Intel Z590 Soket 1200 DDR4 5333MHz(OC) Anakart",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/127051_small.jpg"
+		},
+		{
+			"id": "2",
+			"title": "MSI MEG X570 GODLIKE Amd X570 Soket AM4 DDR4 4800(OC) M.2 Anakart",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/128722_small.jpg"
+		},
+		{
+			"id": "3",
+			"title": "MSI MEG Z590 GODLIKE Intel Z590 Soket 1200 DDR4 5600MHz (OC) M.2 Anakart",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/127739_small.jpg"
+		},
+		{
+			"id": "4",
+			"title": "MSI MEG Z590 ACE GOLD EDITION Intel Z590 Soket 1200 DDR4 5600MHz (OC) Anakart",
+			"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/128722_small.jpg"
 		}
 	]
 }
